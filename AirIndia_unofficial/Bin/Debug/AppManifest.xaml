@@ -1,0 +1,5 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="AirIndia_unofficial" EntryPointType="AirIndia_unofficial.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="AirIndia_unofficial" Source="AirIndia_unofficial.dll" />
+  </Deployment.Parts>
+</Deployment>
