@@ -2,6 +2,6 @@
 A simple Windows Phone 8 application for Air India to book flight tickets, check schedule.
 
 Some in-app screenshots:
-![1](https://cloud.githubusercontent.com/assets/6795073/25563720/c8f80540-2dbf-11e7-9a93-fdce68e25104.png)
-![2](https://cloud.githubusercontent.com/assets/6795073/25563721/c8fa0f98-2dbf-11e7-9592-a48bc83f9a1a.png)
-![4](https://cloud.githubusercontent.com/assets/6795073/25563723/c9009606-2dbf-11e7-99a5-e542cd029725.png)
+![1](https://cloud.githubusercontent.com/assets/6795073/25563753/6f3e4856-2dc0-11e7-9968-a49456cecd63.png)
+![2](https://cloud.githubusercontent.com/assets/6795073/25563754/70e7c13c-2dc0-11e7-8f72-3b0e97471e5c.png)
+![4](https://cloud.githubusercontent.com/assets/6795073/25563755/73408694-2dc0-11e7-8acf-05302ab82bde.png)
